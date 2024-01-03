@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,81 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "Naomi",
+      "id": 3
+    },
+    {
+      "name": "Naomi",
+      "email": "naomi",
+      "id": 4
+    },
+    {
+      "name": "Naomi",
+      "email": "naomi@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Naomi",
+      "email": "naomi@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Naomi",
+      "email": "naomi@gmail.co",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "name": "Naomi",
+      "id": 13
+    },
+    {
+      "name": "Naomi",
+      "id": 14
+    },
+    {
+      "name": "Naomi",
+      "email": "nash",
+      "id": 15
+    },
+    {
+      "name": "Naomi",
+      "email": "nash@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Naomi",
+      "email": "nash@gmail.com",
+      "id": 17
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
